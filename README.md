@@ -1,3 +1,3 @@
-# Spider Linux: Linux For Web Developers
+# Spider Linux: For Web Developers
 
 http://SpiderLinux.org
